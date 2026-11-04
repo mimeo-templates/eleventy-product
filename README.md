@@ -5,22 +5,22 @@ homepage where every band of the page is a Markdown file.
 
 Part of a family of interoperable mimeo templates:
 
-- [eleventy-service](https://github.com/tepiton/eleventy-service) — landing pages for service businesses
-- [eleventy-prose-blog](https://github.com/tepiton/eleventy-prose-blog) — personal prose blogs
-- [eleventy-tech-blog](https://github.com/tepiton/eleventy-tech-blog) — developer blogs
-- [eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook) — chaptered literary sites
-- [eleventy-pamphlet](https://github.com/tepiton/eleventy-pamphlet) — short literary works
+- [eleventy-service](https://github.com/mimeo-templates/eleventy-service) — landing pages for service businesses
+- [eleventy-prose-blog](https://github.com/mimeo-templates/eleventy-prose-blog) — personal prose blogs
+- [eleventy-tech-blog](https://github.com/mimeo-templates/eleventy-tech-blog) — developer blogs
+- [eleventy-chapbook](https://github.com/mimeo-templates/eleventy-chapbook) — chaptered literary sites
+- [eleventy-pamphlet](https://github.com/mimeo-templates/eleventy-pamphlet) — short literary works
 
 Sites are provisioned with [mimeo](https://github.com/pborenstein/mimeo):
 
 ```bash
-mimeo create yourdomain.com --template tepiton/eleventy-product
+mimeo create yourdomain.com --template mimeo-templates/eleventy-product
 ```
 
 ## Quick start
 
 ```bash
-git clone https://github.com/tepiton/eleventy-product your-site
+git clone https://github.com/mimeo-templates/eleventy-product your-site
 cd your-site
 npm install
 npm run start

@@ -5,7 +5,7 @@ Development memory for AI-assisted sessions on this template.
 ## Overview
 
 Product landing page template, Eleventy v3, dev port **8090**. Repo will
-live at tepiton/eleventy-product (GitHub template repo, topics
+live at mimeo-templates/eleventy-product (GitHub template repo, topics
 `eleventy, mimeo, mimeo-template, template`). Built and maintained as
 part of the kincaid project alongside eleventy-service; sibling
 conventions in ~/projects/mimeo-sites/TEMPLATES/CLAUDE.md.

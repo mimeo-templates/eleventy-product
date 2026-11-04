@@ -41,5 +41,5 @@ See: chronicles/phase-1-maintenance.md
 
 ## Current State
 
-Builds clean. Published to tepiton/eleventy-product; living in
+Builds clean. Published to mimeo-templates/eleventy-product; living in
 TEMPLATES/. Nothing deferred.
